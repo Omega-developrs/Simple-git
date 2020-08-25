@@ -10,5 +10,5 @@ Git commands
 
 
 <h1>Introduction to Git and Github.</h1>
-
+![Github Logo]
 </body>
